@@ -12,8 +12,6 @@ Welcome to the Machine Learning Lab Projects repository! This repository contain
   - [4. Comparison of Apriori and FP-Growth using Threading](#4-comparison-of-apriori-and-fp-growth-using-threading)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -30,7 +28,7 @@ This repository showcases my work in the field of data science and machine learn
   - Visualization of customer demographics and churn rates
   - Analysis of factors influencing churn
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn
-- **Project Folder**: [Churn Dataset EDA](link-to-project-folder)
+- **Project Folder**: [Churn Dataset EDA](./Lab1/Churn.csv)
 
 ### 2. EDA for Airline Customer Dataset
 
@@ -70,3 +68,17 @@ To run the projects in this repository, follow these steps:
    ```bash
    git clone https://github.com/your-username/ml-lab-projects.git
    cd ml-lab-projects
+2. **Install the required packages:**:
+   ```bash
+   pip install -r requirements.txt
+## Usage
+
+Each project folder contains its own set of instructions for running the code, typically through Jupyter notebooks or Python scripts. Simply navigate to the desired project folder and run the provided code.
+
+## Contact
+
+If you have any questions or would like to discuss any of the projects, feel free to reach out:
+
+    Email: alexkhundongbam260@gmail.com
+    LinkedIn: https://www.linkedin.com/in/alex-khundongbam-975678223/
+    GitHub: https://github.com/alex-kh465
