@@ -38,7 +38,7 @@ This repository showcases my work in the field of data science and machine learn
   - Visualization of customer satisfaction metrics
   - Identification of key drivers of customer satisfaction
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn
-- **Project Folder**: [Airline Customer Dataset EDA](link-to-project-folder)
+- **Project Folder**: [Airline Customer Dataset EDA](./Lab2/airline.csv)
 
 ### 3. Market Basket Analysis using Apriori
 
@@ -48,7 +48,7 @@ This repository showcases my work in the field of data science and machine learn
   - Implementation of the Apriori algorithm
   - Visualization of frequent itemsets and association rules
 - **Technologies Used**: Python, Pandas, mlxtend, Matplotlib
-- **Project Folder**: [Market Basket Analysis using Apriori](link-to-project-folder)
+- **Project Folder**: [Market Basket Analysis using Apriori](./Lab3/Market_Basket_Optimisation.csv)
 
 ### 4. Comparison of Apriori and FP-Growth using Threading
 
@@ -58,7 +58,7 @@ This repository showcases my work in the field of data science and machine learn
   - Use of Python threading to run both algorithms concurrently
   - Visualization of execution times and comparison of results
 - **Technologies Used**: Python, Pandas, mlxtend, Matplotlib, threading
-- **Project Folder**: [Comparison of Apriori and FP-Growth](link-to-project-folder)
+- **Project Folder**: [Comparison of Apriori and FP-Growth](./Lab4/Groceries.csv)
 
 ## Setup
 
@@ -67,7 +67,11 @@ To run the projects in this repository, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/ml-lab-projects.git
-   cd ml-lab-projects
+   cd ML_labs
+2. **Create a virtual environment (optional but recommended):**:
+   ```bash
+   python3 -m venv venv
+  source venv/bin/activate   # On Windows: venv\Scripts\activate
 2. **Install the required packages:**:
    ```bash
    pip install -r requirements.txt
