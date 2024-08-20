@@ -58,7 +58,7 @@ This repository showcases my work in the field of data science and machine learn
   - Use of Python threading to run both algorithms concurrently
   - Visualization of execution times and comparison of results
 - **Technologies Used**: Python, Pandas, mlxtend, Matplotlib, threading
-- **Project Folder**: [Comparison of Apriori and FP-Growth](./Lab 4)
+- **Project Folder**: [Comparison of Apriori and FP-Growth](./Lab4)
 
 ## Setup
 
