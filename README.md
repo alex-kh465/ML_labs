@@ -28,7 +28,7 @@ This repository showcases my work in the field of data science and machine learn
   - Visualization of customer demographics and churn rates
   - Analysis of factors influencing churn
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn
-- **Project Folder**: [Churn Dataset EDA](./Lab1/Churn.csv)
+- **Project Folder**: [Churn Dataset EDA](./Lab1)
 
 ### 2. EDA for Airline Customer Dataset
 
@@ -38,7 +38,7 @@ This repository showcases my work in the field of data science and machine learn
   - Visualization of customer satisfaction metrics
   - Identification of key drivers of customer satisfaction
 - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn
-- **Project Folder**: [Airline Customer Dataset EDA](./Lab2/airline.csv)
+- **Project Folder**: [Airline Customer Dataset EDA](./Lab2)
 
 ### 3. Market Basket Analysis using Apriori
 
@@ -48,7 +48,7 @@ This repository showcases my work in the field of data science and machine learn
   - Implementation of the Apriori algorithm
   - Visualization of frequent itemsets and association rules
 - **Technologies Used**: Python, Pandas, mlxtend, Matplotlib
-- **Project Folder**: [Market Basket Analysis using Apriori](./Lab3/Market_Basket_Optimisation.csv)
+- **Project Folder**: [Market Basket Analysis using Apriori](./Lab3)
 
 ### 4. Comparison of Apriori and FP-Growth using Threading
 
@@ -58,7 +58,7 @@ This repository showcases my work in the field of data science and machine learn
   - Use of Python threading to run both algorithms concurrently
   - Visualization of execution times and comparison of results
 - **Technologies Used**: Python, Pandas, mlxtend, Matplotlib, threading
-- **Project Folder**: [Comparison of Apriori and FP-Growth](./Lab4/Groceries.csv)
+- **Project Folder**: [Comparison of Apriori and FP-Growth](./Lab4)
 
 ## Setup
 
