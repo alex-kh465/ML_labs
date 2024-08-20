@@ -71,8 +71,9 @@ To run the projects in this repository, follow these steps:
 2. **Create a virtual environment (optional but recommended):**:
    ```bash
    python3 -m venv venv
-  source venv/bin/activate   # On Windows: venv\Scripts\activate
-2. **Install the required packages:**:
+   source venv/bin/activate
+   # On Windows: venv\Scripts\activate
+3. **Install the required packages:**:
    ```bash
    pip install -r requirements.txt
 ## Usage
